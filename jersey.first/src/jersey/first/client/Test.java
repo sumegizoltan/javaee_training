@@ -1,4 +1,4 @@
-package yersey.first.client;
+package jersey.first.client;
 
 import java.net.URI;
 
